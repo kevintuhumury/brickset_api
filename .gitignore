@@ -1,0 +1,11 @@
+.DS_Store
+.rspec
+.rspec_status
+.config
+.bundle
+*.gem
+Gemfile.lock
+doc/
+pkg/*
+docker
+coverage
