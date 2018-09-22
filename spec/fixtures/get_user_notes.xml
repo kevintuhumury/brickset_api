@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfUserNotes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="https://brickset.com/api/">
+  <userNotes>
+    <setID>5860</setID>
+    <userNotes>A long time ago in a galaxy far, far away...</userNotes>
+  </userNotes>
+</ArrayOfUserNotes>

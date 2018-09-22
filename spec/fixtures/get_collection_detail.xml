@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCollectionDetails xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="https://brickset.com/api/">
+  <collectionDetails>
+    <collectionID>12712521</collectionID>
+    <dateAcquired>21-08-18</dateAcquired>
+    <currency>EUR</currency>
+    <pricePaid>3.0000</pricePaid>
+    <additionalPricePaid>0.4900</additionalPricePaid>
+    <currentEstimatedValue>3.4900</currentEstimatedValue>
+    <conditionWhenAcquired>As new</conditionWhenAcquired>
+    <acquiredFrom>Mos Eisley</acquiredFrom>
+    <conditionNow>Assembled</conditionNow>
+    <location>In a galaxy far, far away...</location>
+    <notes>A long time ago...</notes>
+    <parts>true</parts>
+    <minifigs>false</minifigs>
+    <instructions>true</instructions>
+    <box>true</box>
+    <willTrade>false</willTrade>
+    <modified>true</modified>
+    <deleted>false</deleted>
+  </collectionDetails>
+</ArrayOfCollectionDetails>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAdditionalImages xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="https://brickset.com/api/">
+  <additionalImages>
+    <thumbnailURL>https://images.brickset.com/sets/AdditionalImages/10179-1/tn_10179-0000-xx-13-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>https://images.brickset.com/sets/AdditionalImages/10179-1/tn_large_10179-0000-xx-13-1_jpg.jpg</largeThumbnailURL>
+    <imageURL>https://images.brickset.com/sets/AdditionalImages/10179-1/10179-0000-xx-13-1.jpg</imageURL>
+  </additionalImages>
+  <additionalImages>
+    <thumbnailURL>https://images.brickset.com/sets/AdditionalImages/10179-1/tn_10179-0000-xx-23-1_jpg.jpg</thumbnailURL>
+    <imageURL>https://images.brickset.com/sets/AdditionalImages/10179-1/10179-0000-xx-23-1.jpg</imageURL>
+  </additionalImages>
+  <additionalImages>
+    <thumbnailURL>https://images.brickset.com/sets/AdditionalImages/10179-1/tn_10179-0000-xx-33-1_jpg.jpg</thumbnailURL>
+    <imageURL>https://images.brickset.com/sets/AdditionalImages/10179-1/10179-0000-xx-33-1.jpg</imageURL>
+  </additionalImages>
+  <additionalImages>
+    <thumbnailURL>https://images.brickset.com/sets/AdditionalImages/10179-1/tn_10179-0000-xx-33-2_jpg.jpg</thumbnailURL>
+    <imageURL>https://images.brickset.com/sets/AdditionalImages/10179-1/10179-0000-xx-33-2.jpg</imageURL>
+  </additionalImages>
+  <additionalImages>
+    <thumbnailURL>https://images.brickset.com/sets/AdditionalImages/10179-1/tn_10179-0000-xx-33-3_jpg.jpg</thumbnailURL>
+    <imageURL>https://images.brickset.com/sets/AdditionalImages/10179-1/10179-0000-xx-33-3.jpg</imageURL>
+  </additionalImages>
+</ArrayOfAdditionalImages>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfConditions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="https://brickset.com/api/">
+  <conditions>
+    <condition>Assembled</condition>
+  </conditions>
+  <conditions>
+    <condition>Bagged up</condition>
+  </conditions>
+  <conditions>
+    <condition>Boxed</condition>
+  </conditions>
+  <conditions>
+    <condition>MISB</condition>
+  </conditions>
+  <conditions>
+    <condition>Modified</condition>
+  </conditions>
+  <conditions>
+    <condition>Parted out</condition>
+  </conditions>
+  <conditions>
+    <condition>Unknown</condition>
+  </conditions>
+</ArrayOfConditions>

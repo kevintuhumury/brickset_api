@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfMinifigCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="https://brickset.com/api/">
+  <minifigCollection>
+    <minifigNumber>85863pb076</minifigNumber>
+    <ownedInSets>1</ownedInSets>
+    <ownedLoose>0</ownedLoose>
+    <ownedTotal>1</ownedTotal>
+    <wanted>true</wanted>
+  </minifigCollection>
+  <minifigCollection>
+    <minifigNumber>85863pb078</minifigNumber>
+    <ownedInSets>1</ownedInSets>
+    <ownedLoose>0</ownedLoose>
+    <ownedTotal>1</ownedTotal>
+    <wanted>false</wanted>
+  </minifigCollection>
+  <minifigCollection>
+    <minifigNumber>85863pb079</minifigNumber>
+    <ownedInSets>0</ownedInSets>
+    <ownedLoose>0</ownedLoose>
+    <ownedTotal>0</ownedTotal>
+    <wanted>false</wanted>
+  </minifigCollection>
+  <minifigCollection>
+    <minifigNumber>85863pb082</minifigNumber>
+    <ownedInSets>0</ownedInSets>
+    <ownedLoose>1</ownedLoose>
+    <ownedTotal>2</ownedTotal>
+    <wanted>false</wanted>
+  </minifigCollection>
+</ArrayOfMinifigCollection>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="https://brickset.com/api/">
+  <sets>
+    <setID>5860</setID>
+    <number>10179</number>
+    <numberVariant>1</numberVariant>
+    <name>Ultimate Collector's Millennium Falcon</name>
+    <year>2007</year>
+    <theme>Star Wars</theme>
+    <themeGroup>Licensed</themeGroup>
+    <subtheme>Ultimate Collector Series</subtheme>
+    <pieces>5197</pieces>
+    <minifigs>5</minifigs>
+    <image>true</image>
+    <imageFilename>10179-1</imageFilename>
+    <thumbnailURL>https://images.brickset.com/sets/thumbs/tn_10179-1_jpg.jpg</thumbnailURL>
+    <largeThumbnailURL>https://images.brickset.com/sets/small/10179-1.jpg</largeThumbnailURL>
+    <imageURL>https://images.brickset.com/sets/images/10179-1.jpg</imageURL>
+    <bricksetURL>https://brickset.com/sets/10179-1</bricksetURL>
+    <released>true</released>
+    <owned>false</owned>
+    <wanted>true</wanted>
+    <qtyOwned>0</qtyOwned>
+    <userNotes>A long time ago in a galaxy far, far away...</userNotes>
+    <ACMDataCount>0</ACMDataCount>
+    <ownedByTotal>3807</ownedByTotal>
+    <wantedByTotal>9349</wantedByTotal>
+    <UKRetailPrice>342.49</UKRetailPrice>
+    <USRetailPrice>499.99</USRetailPrice>
+    <CARetailPrice />
+    <EURetailPrice />
+    <USDateAddedToSAH>2007-10-24</USDateAddedToSAH>
+    <USDateRemovedFromSAH>2010-05-04</USDateRemovedFromSAH>
+    <rating>4.76190476190476</rating>
+    <reviewCount>21</reviewCount>
+    <packagingType>Box</packagingType>
+    <availability>LEGO exclusive</availability>
+    <instructionsCount>1</instructionsCount>
+    <additionalImageCount>5</additionalImageCount>
+    <ageMin>16</ageMin>
+    <ageMax />
+    <height />
+    <width />
+    <depth />
+    <weight />
+    <category>Normal</category>
+    <userRating>0</userRating>
+    <EAN />
+    <UPC />
+    <lastUpdated>2017-08-23T21:44:34.273</lastUpdated>
+  </sets>
+</ArrayOfSets>

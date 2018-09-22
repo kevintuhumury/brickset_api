@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSubthemes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="https://brickset.com/api/">
+  <subthemes>
+    <theme>Star Wars</theme>
+    <subtheme>Ultimate Collector Series</subtheme>
+    <setCount>30</setCount>
+    <yearFrom>2000</yearFrom>
+    <yearTo>2018</yearTo>
+  </subthemes>
+  <subthemes>
+    <theme>Star Wars</theme>
+    <subtheme>Episode IV</subtheme>
+    <setCount>37</setCount>
+    <yearFrom>1999</yearFrom>
+    <yearTo>2018</yearTo>
+  </subthemes>
+  <subthemes>
+    <theme>Star Wars</theme>
+    <subtheme>Master Builder Series</subtheme>
+    <setCount>1</setCount>
+    <yearFrom>2018</yearFrom>
+    <yearTo>2018</yearTo>
+  </subthemes>
+  <subthemes>
+    <theme>Star Wars</theme>
+    <subtheme>MicroFighters</subtheme>
+    <setCount>26</setCount>
+    <yearFrom>2014</yearFrom>
+    <yearTo>2018</yearTo>
+  </subthemes>
+  <subthemes>
+    <theme>Star Wars</theme>
+    <subtheme>Mini Building Set</subtheme>
+    <setCount>21</setCount>
+    <yearFrom>2002</yearFrom>
+    <yearTo>2012</yearTo>
+  </subthemes>
+  <subthemes>
+    <theme>Star Wars</theme>
+    <subtheme>Minifig Pack</subtheme>
+    <setCount>12</setCount>
+    <yearFrom>2000</yearFrom>
+    <yearTo>2014</yearTo>
+  </subthemes>
+  <subthemes>
+    <theme>Star Wars</theme>
+    <subtheme>Rogue One</subtheme>
+    <setCount>12</setCount>
+    <yearFrom>2016</yearFrom>
+    <yearTo>2017</yearTo>
+  </subthemes>
+  <subthemes>
+    <theme>Star Wars</theme>
+    <subtheme>Technic</subtheme>
+    <setCount>9</setCount>
+    <yearFrom>2000</yearFrom>
+    <yearTo>2002</yearTo>
+  </subthemes>
+  <subthemes>
+    <theme>Star Wars</theme>
+    <subtheme>The Force Awakens</subtheme>
+    <setCount>24</setCount>
+    <yearFrom>2015</yearFrom>
+    <yearTo>2017</yearTo>
+  </subthemes>
+  <subthemes>
+    <theme>Star Wars</theme>
+    <subtheme>The Last Jedi</subtheme>
+    <setCount>16</setCount>
+    <yearFrom>2017</yearFrom>
+    <yearTo>2018</yearTo>
+  </subthemes>
+</ArrayOfSubthemes>

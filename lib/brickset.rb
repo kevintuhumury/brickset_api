@@ -4,6 +4,19 @@ require 'happymapper'
 require 'brickset/version'
 require 'brickset/configuration'
 
+require 'brickset/elements/set'
+require 'brickset/elements/year'
+require 'brickset/elements/theme'
+require 'brickset/elements/subtheme'
+require 'brickset/elements/instruction'
+require 'brickset/elements/additional_image'
+require 'brickset/elements/review'
+require 'brickset/elements/collection_detail'
+require 'brickset/elements/collection_total'
+require 'brickset/elements/minifig_collection'
+require 'brickset/elements/user_note'
+require 'brickset/elements/condition'
+
 require 'brickset/api/auth'
 
 module Brickset
