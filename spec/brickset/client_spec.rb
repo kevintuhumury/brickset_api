@@ -6,6 +6,7 @@ RSpec.describe Brickset::Client do
       expect(described_class.ancestors).to include HTTParty
       expect(described_class.ancestors).to include ActiveModel::Validations
       expect(described_class.ancestors).to include Brickset::Api::Auth
+      expect(described_class.ancestors).to include Brickset::Api::Collection::Minifig
       expect(described_class.ancestors).to include Brickset::Api::Collection::Advanced
     end
   end
