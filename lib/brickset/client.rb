@@ -1,7 +1,10 @@
 module Brickset
   class Client
     include HTTParty
+    include ActiveModel::Validations
+
     include Brickset::Api::Auth
+    include Brickset::Api::Collection::Advanced
 
     base_uri Brickset::BASE_URI
 

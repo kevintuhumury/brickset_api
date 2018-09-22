@@ -1,5 +1,7 @@
 require 'httparty'
 require 'happymapper'
+require 'active_model'
+require 'active_support/all'
 
 require 'brickset/version'
 require 'brickset/configuration'
@@ -18,8 +20,11 @@ require 'brickset/elements/user_note'
 require 'brickset/elements/condition'
 
 require 'brickset/api/auth'
+require 'brickset/api/collection/advanced'
 
 module Brickset
+  ValidationError = Class.new(StandardError)
+
   BASE_URI = 'https://brickset.com/api/v2.asmx'.freeze
 
   class << self

@@ -4,7 +4,9 @@ RSpec.describe Brickset::Client do
   it 'knows its ancestors' do
     aggregate_failures do
       expect(described_class.ancestors).to include HTTParty
+      expect(described_class.ancestors).to include ActiveModel::Validations
       expect(described_class.ancestors).to include Brickset::Api::Auth
+      expect(described_class.ancestors).to include Brickset::Api::Collection::Advanced
     end
   end
 
