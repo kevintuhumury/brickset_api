@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<collectionTotals xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="https://brickset.com/api/">
+  <totalSetsOwned>0</totalSetsOwned>
+  <totalDistinctSetsOwned>0</totalDistinctSetsOwned>
+  <totalSetsWanted>0</totalSetsWanted>
+  <totalMinifigsOwned>0</totalMinifigsOwned>
+  <totalMinifigsWanted>0</totalMinifigsWanted>
+</collectionTotals>

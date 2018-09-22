@@ -4,6 +4,7 @@ module Brickset
     include ActiveModel::Validations
 
     include Brickset::Api::Auth
+    include Brickset::Api::Collection::Set
     include Brickset::Api::Collection::Minifig
     include Brickset::Api::Collection::Advanced
 

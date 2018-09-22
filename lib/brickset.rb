@@ -20,6 +20,7 @@ require 'brickset/elements/user_note'
 require 'brickset/elements/condition'
 
 require 'brickset/api/auth'
+require 'brickset/api/collection/set'
 require 'brickset/api/collection/minifig'
 require 'brickset/api/collection/advanced'
 
