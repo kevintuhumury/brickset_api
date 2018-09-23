@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfYears xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="https://brickset.com/api/">
+  <years>
+    <theme>Star Wars</theme>
+    <year>2017</year>
+    <setCount>2</setCount>
+  </years>
+  <years>
+    <theme>Star Wars</theme>
+    <year>2018</year>
+    <setCount>3</setCount>
+  </years>
+</ArrayOfYears>

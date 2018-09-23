@@ -2,16 +2,16 @@
 <ArrayOfThemes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="https://brickset.com/api/">
   <themes>
     <theme>Advanced Models</theme>
-    <setCount>61</setCount>
-    <subthemeCount>10</subthemeCount>
-    <yearFrom>2000</yearFrom>
-    <yearTo>2018</yearTo>
+    <setCount>1</setCount>
+    <subthemeCount>0</subthemeCount>
+    <yearFrom>0</yearFrom>
+    <yearTo>0</yearTo>
   </themes>
   <themes>
     <theme>Star Wars</theme>
-    <setCount>821</setCount>
-    <subthemeCount>29</subthemeCount>
-    <yearFrom>1999</yearFrom>
-    <yearTo>2018</yearTo>
+    <setCount>26</setCount>
+    <subthemeCount>0</subthemeCount>
+    <yearFrom>0</yearFrom>
+    <yearTo>0</yearTo>
   </themes>
 </ArrayOfThemes>

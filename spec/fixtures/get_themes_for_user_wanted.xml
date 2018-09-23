@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfThemes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="https://brickset.com/api/">
+  <themes>
+    <theme>Advanced Models</theme>
+    <setCount>1</setCount>
+    <subthemeCount>0</subthemeCount>
+    <yearFrom>0</yearFrom>
+    <yearTo>0</yearTo>
+  </themes>
+  <themes>
+    <theme>Star Wars</theme>
+    <setCount>26</setCount>
+    <subthemeCount>0</subthemeCount>
+    <yearFrom>0</yearFrom>
+    <yearTo>0</yearTo>
+  </themes>
+  <themes>
+    <theme>Dimensions</theme>
+    <setCount>3</setCount>
+    <subthemeCount>0</subthemeCount>
+    <yearFrom>0</yearFrom>
+    <yearTo>0</yearTo>
+  </themes>
+</ArrayOfThemes>
+

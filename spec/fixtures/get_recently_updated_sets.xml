@@ -21,7 +21,7 @@
     <owned>false</owned>
     <wanted>true</wanted>
     <qtyOwned>0</qtyOwned>
-    <userNotes>A long time ago in a galaxy far, far away...</userNotes>
+    <userNotes />
     <ACMDataCount>0</ACMDataCount>
     <ownedByTotal>3807</ownedByTotal>
     <wantedByTotal>9349</wantedByTotal>
@@ -48,54 +48,5 @@
     <EAN />
     <UPC />
     <lastUpdated>2017-08-23T21:44:34.273</lastUpdated>
-  </sets>
-  <sets>
-    <setID>26725</setID>
-    <number>75192</number>
-    <numberVariant>1</numberVariant>
-    <name>Millennium Falcon</name>
-    <year>2017</year>
-    <theme>Star Wars</theme>
-    <themeGroup>Licensed</themeGroup>
-    <subtheme>Ultimate Collector Series</subtheme>
-    <pieces>7541</pieces>
-    <minifigs>8</minifigs>
-    <image>true</image>
-    <imageFilename>75192-1</imageFilename>
-    <thumbnailURL>https://images.brickset.com/sets/thumbs/tn_75192-1_jpg.jpg</thumbnailURL>
-    <largeThumbnailURL>https://images.brickset.com/sets/small/75192-1.jpg</largeThumbnailURL>
-    <imageURL>https://images.brickset.com/sets/images/75192-1.jpg</imageURL>
-    <bricksetURL>https://brickset.com/sets/75192-1</bricksetURL>
-    <released>true</released>
-    <owned>true</owned>
-    <wanted>true</wanted>
-    <qtyOwned>1</qtyOwned>
-    <userNotes />
-    <ACMDataCount>0</ACMDataCount>
-    <ownedByTotal>5194</ownedByTotal>
-    <wantedByTotal>4551</wantedByTotal>
-    <UKRetailPrice>649.99</UKRetailPrice>
-    <USRetailPrice>799.99</USRetailPrice>
-    <CARetailPrice>899.99</CARetailPrice>
-    <EURetailPrice>799.99</EURetailPrice>
-    <USDateAddedToSAH>2018-01-10</USDateAddedToSAH>
-    <USDateRemovedFromSAH />
-    <rating>5</rating>
-    <reviewCount>3</reviewCount>
-    <packagingType>Box</packagingType>
-    <availability>LEGO exclusive</availability>
-    <instructionsCount>2</instructionsCount>
-    <additionalImageCount>61</additionalImageCount>
-    <ageMin>16</ageMin>
-    <ageMax />
-    <height />
-    <width />
-    <depth />
-    <weight />
-    <category>Normal</category>
-    <userRating>4</userRating>
-    <EAN />
-    <UPC />
-    <lastUpdated>2017-09-14T09:33:29.167</lastUpdated>
   </sets>
 </ArrayOfSets>

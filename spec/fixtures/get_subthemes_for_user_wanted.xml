@@ -3,22 +3,29 @@
   <subthemes>
     <theme>Star Wars</theme>
     <subtheme>Ultimate Collector Series</subtheme>
-    <setCount>30</setCount>
-    <yearFrom>2000</yearFrom>
-    <yearTo>2018</yearTo>
+    <setCount>5</setCount>
+    <yearFrom>0</yearFrom>
+    <yearTo>0</yearTo>
   </subthemes>
   <subthemes>
     <theme>Star Wars</theme>
     <subtheme>Master Builder Series</subtheme>
-    <setCount>1</setCount>
-    <yearFrom>2018</yearFrom>
-    <yearTo>2018</yearTo>
+    <setCount>2</setCount>
+    <yearFrom>0</yearFrom>
+    <yearTo>0</yearTo>
   </subthemes>
   <subthemes>
     <theme>Star Wars</theme>
     <subtheme>MicroFighters</subtheme>
-    <setCount>26</setCount>
-    <yearFrom>2014</yearFrom>
-    <yearTo>2018</yearTo>
+    <setCount>1</setCount>
+    <yearFrom>0</yearFrom>
+    <yearTo>0</yearTo>
+  </subthemes>
+  <subthemes>
+    <theme>Star Wars</theme>
+    <subtheme>Solo</subtheme>
+    <setCount>1</setCount>
+    <yearFrom>0</yearFrom>
+    <yearTo>0</yearTo>
   </subthemes>
 </ArrayOfSubthemes>
