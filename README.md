@@ -1,5 +1,8 @@
 # Brickset
 
+[![Gem Version](https://badge.fury.io/rb/brickset_api.svg)](https://badge.fury.io/rb/brickset_api)
+[![Build Status](https://travis-ci.org/kevintuhumury/brickset_api.png?branch=master)](https://travis-ci.org/kevintuhumury/brickset_api)
+
 This gem provides a Ruby wrapper around the [Brickset](https://brickset.com) (v2) API, using HTTParty. Brickset is a library to access the Brickset API in an easy way. It wraps all of the methods, which are described in the [official documentation](https://brickset.com/tools/webservices/v2). The Brickset API by default responds with XML. This gem maps the XML responses to Ruby objects using HappyMapper.
 
 ## Installation
